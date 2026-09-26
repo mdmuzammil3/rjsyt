@@ -1,0 +1,13 @@
+*{
+  padding: 0px;
+  margin:0px;
+}
+
+.card , .lol{
+  background-color: rgb(0, 0, 0);
+  color: white;
+  height: 100px;
+  width: 100px;
+  margin-top: 10px;
+  padding: 10px;
+}
